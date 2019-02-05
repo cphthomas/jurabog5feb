@@ -1,9 +1,57 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file.1</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#welcome-to-stackedit">Welcome to StackEdit!</a></li>
+<li><a href="#files">Files</a>
+<ul>
+<li><a href="#create-files-and-folders">Create files and folders</a></li>
+<li><a href="#switch-to-another-file">Switch to another file</a></li>
+<li><a href="#rename-a-file">Rename a file</a></li>
+<li><a href="#delete-a-file">Delete a file</a></li>
+<li><a href="#export-a-file">Export a file</a></li>
+</ul>
+</li>
+<li><a href="#synchronization">Synchronization</a>
+<ul>
+<li><a href="#open-a-file">Open a file</a></li>
+<li><a href="#save-a-file">Save a file</a></li>
+<li><a href="#synchronize-a-file">Synchronize a file</a></li>
+<li><a href="#manage-file-synchronization">Manage file synchronization</a></li>
+</ul>
+</li>
+<li><a href="#publication">Publication</a>
+<ul>
+<li><a href="#publish-a-file">Publish a File</a></li>
+<li><a href="#update-a-publication">Update a publication</a></li>
+<li><a href="#manage-file-publication">Manage file publication</a></li>
+</ul>
+</li>
+<li><a href="#markdown-extensions">Markdown extensions</a>
+<ul>
+<li><a href="#smartypants">SmartyPants</a></li>
+<li><a href="#katex">KaTeX</a></li>
+<li><a href="#uml-diagrams">UML diagrams</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
 <p>Hi! I’m your first Markdown file in <strong>StackEdit</strong>. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the <strong>file explorer</strong> on the left corner of the navigation bar.</p>
 <h1 id="files">Files</h1>
 <p>StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible <strong>offline!</strong></p>
@@ -110,3 +158,8 @@
 <p>And this will produce a flow chart:</p>
 <div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-wX4NNtZafM8VEtqL" width="100%" viewBox="0 0 500.3109359741211 171.890625"><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath"><path class="path" d="M119.91170576572816,78.41796875L179.3203125,49.9453125L255.2578125,49.9453125" marker-end="url(#arrowhead87)"></path><defs><marker id="arrowhead87" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"></path></marker></defs></g><g class="edgePath"><path class="path" d="M119.91170576572816,124.41796875L179.3203125,152.890625L234.796875,152.890625" marker-end="url(#arrowhead88)"></path><defs><marker id="arrowhead88" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"></path></marker></defs></g><g class="edgePath"><path class="path" d="M315.1484375,49.9453125L360.609375,49.9453125L408.6013871293077,79.42595738363185" marker-end="url(#arrowhead89)"></path><defs><marker id="arrowhead89" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"></path></marker></defs></g><g class="edgePath"><path class="path" d="M335.609375,152.890625L360.609375,152.890625L408.6013861816871,124.4099806946266" marker-end="url(#arrowhead90)"></path><defs><marker id="arrowhead90" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="translate(179.3203125,49.9453125)"><g transform="translate(-30.4765625,-13)" class="label"></g></g></g></g></g></svg><div xmlns="http://www.w3.org/1999/xhtml"><span class="edgeLabel">Link text</span></div><g class="edgeLabel" transform=""><g transform="translate(0,0)" class="label"><div xmlns="http://www.w3.org/1999/xhtml"><span class="edgeLabel"></span></div></g></g><g class="edgeLabel" transform=""><g transform="translate(0,0)" class="label"><div xmlns="http://www.w3.org/1999/xhtml"><span class="edgeLabel"></span></div></g></g><g class="edgeLabel" transform=""><g transform="translate(0,0)" class="label"><div xmlns="http://www.w3.org/1999/xhtml"><span class="edgeLabel"></span></div></g></g><g class="nodes"><g class="node" id="A" transform="translate(71.921875,101.41796875)"><rect rx="0" ry="0" x="-51.921875" y="-23" width="103.84375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-41.921875,-13)"><div xmlns="http://www.w3.org/1999/xhtml">Square Rect</div></g></g></g><g class="node" id="B" transform="translate(285.203125,49.9453125)"><circle x="-29.9453125" y="-23" r="29.9453125"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-19.9453125,-13)"><div xmlns="http://www.w3.org/1999/xhtml">Circle</div></g></g></g><g class="node" id="C" transform="translate(285.203125,152.890625)"><rect rx="5" ry="5" x="-50.40625" y="-23" width="100.8125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.40625,-13)"><div xmlns="http://www.w3.org/1999/xhtml">Round Rect</div></g></g></g><g class="node" id="D" transform="translate(444.96015548706055,101.41796875)"><polygon points="59.350781250000004,0 118.70156250000001,-59.350781250000004 59.350781250000004,-118.70156250000001 0,-59.350781250000004" rx="5" ry="5" transform="translate(-59.350781250000004,59.350781250000004)"></polygon><g class="label" transform="translate(0,0)"><g transform="translate(-32.9453125,-13)"><div xmlns="http://www.w3.org/1999/xhtml">Rhombus</div></g></g></g></g></div>
 
+    </div>
+  </div>
+</body>
+
+</html>
